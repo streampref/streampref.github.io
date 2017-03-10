@@ -1,4 +1,4 @@
 title: StreamPref
 description: StreamPref is prototype of a Data Stream Management System (DSMS) with support to temporal conditional preferences.
-show_downloads: true
-theme: jekyll-theme-slate
+show_downloads: false
+theme: jekyll-theme-minimal
