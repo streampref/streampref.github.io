@@ -1,6 +1,3 @@
-# StremPref
-StreamPref is prototype of a Data Stream Management System (DSMS) with support to temporal conditional preferences.
-
 # Dataset Generators
 
 - [Generator for evaluation of SEQ operator](https://github.com/ribeiromarcos/seqgen)
