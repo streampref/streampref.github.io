@@ -1,4 +1,4 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: StreamPref
+description: StreamPref is prototype of a Data Stream Management System (DSMS) with support to temporal conditional preferences.
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
