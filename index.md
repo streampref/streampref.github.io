@@ -1,8 +1,7 @@
 # Dataset Generators
 
-- [Generator for evaluation of SEQ operator](https://github.com/ribeiromarcos/seqgen)
-- [Generator for evaluation of BESTSEQ operator](https://github.com/ribeiromarcos/tprefgen)
-- [Tool for experiments with world cup data](https://github.com/ribeiromarcos/wcimport)
+- [Generator of synthetic data](https://streampref.github.io/streamprefgen/)
+- [Tool for experiments with real data of 2014 Soccer World Cup](https://streampref.github.io/wcimport)
 
 # Related Publications
 
