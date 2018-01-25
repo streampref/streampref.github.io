@@ -1,15 +1,19 @@
 # Downloads
 
-- StreamPref DSMS prototype:
-[https://streampref.github.io/streampref/](https://streampref.github.io/streampref/)
-- Dataset generator with simple preferences:
-[https://streampref.github.io/prefgen/](https://streampref.github.io/prefgen/)
-- Dataset generator with temporal conditional preferences:
-[https://streampref.github.io/streamprefgen/](https://streampref.github.io/streamprefgen/)
-- Tool for importing real data of 2014 Soccer World Cup:
-[https://streampref.github.io/wcimport/](https://streampref.github.io/wcimport/)
-- Tool for importing real data of Yahoo Finance:
-[https://streampref.github.io/yfimport/](https://streampref.github.io/yfimport/)
+- StreamPref DSMS prototype
+\([https://streampref.github.io/streampref/](https://streampref.github.io/streampref/)\)
+
+- Dataset generator with simple preferences
+\([https://streampref.github.io/prefgen/](https://streampref.github.io/prefgen/)\)
+
+- Dataset generator with temporal conditional preferences
+\([https://streampref.github.io/streamprefgen/](https://streampref.github.io/streamprefgen/)\)
+
+- Tool for importing real data of 2014 Soccer World Cup
+\([https://streampref.github.io/wcimport/](https://streampref.github.io/wcimport/)\)
+
+- Tool for importing real data of Yahoo Finance
+\([https://streampref.github.io/yfimport/](https://streampref.github.io/yfimport/)\)
 
 # Related Publications
 
