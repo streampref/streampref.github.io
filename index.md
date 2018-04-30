@@ -17,7 +17,7 @@
 
 # Related Publications
 
-- Ribeiro, M.R.; Barioni, M.C.N.; Amo, S.; Roncancio, C.; Labbé, C.: [Incremental evaluation of continuous preference queries](https://doi.org/10.1016/j.ins.2018.04.030). Volume 453, Pages 127-153, 2018.
+- Ribeiro, M.R.; Barioni, M.C.N.; Amo, S.; Roncancio, C.; Labbé, C.: [Incremental evaluation of continuous preference queries](https://doi.org/10.1016/j.ins.2018.04.030). Information Sciences. Volume 453, Pages 127-153, 2018.
 
 - Ribeiro, M.R.; Barioni, M.C.N.; Amo, S.; Roncancio, C.; Labbé, C.: [Soccer2014DS: a dataset containing player events from the 2014 World Cup](https://hal.archives-ouvertes.fr/hal-01656405/document). Dataset Showcase Workshop (DSW). Brazilian Symposium on Databases (SBBD), 2017, Uberlândia, Brazil.
 
