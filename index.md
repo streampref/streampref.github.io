@@ -19,7 +19,7 @@
 
 - Ribeiro, M.R.; Barioni, M.C.N.; Amo, S.; Roncancio, C.; Labbé, C.:
 [Finding Top-k Sequences over Data Streams According to Temporal Conditional Preferences](http://sbbd.org.br/2018/proceedings/).
-Dataset Showcase Workshop (DSW). Brazilian Symposium on Databases (SBBD), 2017, Uberlândia, Brazil.
+Brazilian Symposium on Databases (SBBD), 2018, Uberlândia, Brazil.
 
 - Ribeiro, M.R.; Barioni, M.C.N.; Amo, S.; Roncancio, C.; Labbé, C.:
 [Incremental evaluation of continuous preference queries](https://doi.org/10.1016/j.ins.2018.04.030).
